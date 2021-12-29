@@ -4,7 +4,7 @@
 
 ## Requirements
 
-Before starting, you need configure and run [local Traefik](https://github.com/kovercc/local_traefik). PgAdmin is just one of the clients of local Traefik.
+Before starting, you need to configure and run [local Traefik](https://github.com/kovercc/local_traefik). PgAdmin is one of the clients of the local Traefik.
 
 ## Configure environment
 
